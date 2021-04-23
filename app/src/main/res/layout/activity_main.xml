@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:gravity="center"
+  android:orientation="vertical"
+  android:layout_marginLeft="15dp"
+  android:layout_marginRight="15dp"
+  tools:context=".MainActivity">
+
+  <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Nama : Amos Lafau"
+    android:textSize="9pt"/>
+
+  <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Npm : 18421017"
+    android:textSize="9pt"/>
+
+  <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Umur : 20 Tahun"
+    android:textSize="9pt"/>
+
+  <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Alamat : JL. UNTUNG SUROPATI NO.9 RT.03 LK.II KEL.GEDUNG MENENG BARU KEC.RAJABASA"
+    android:textSize="9pt"/>
+
+  <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Hobi : Futsal"
+    android:textSize="9pt"/>
+
+  <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Agama : Kristen"
+    android:textSize="9pt"/>
+
+
+</LinearLayout>
